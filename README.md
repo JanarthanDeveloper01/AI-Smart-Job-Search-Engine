@@ -135,8 +135,6 @@ python -m streamlit run app.py
 * 📉 Skill gap detection
 * 📄 Resume improvement suggestions
 * 📊 Job ranking system
-
 ---
-
 
 If you like this project, consider giving it a ⭐ on GitHub!
